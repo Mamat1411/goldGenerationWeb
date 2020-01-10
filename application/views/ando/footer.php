@@ -143,7 +143,7 @@ echo "</div>"; //.col-md-4
           <i class='fa fa-home'></i> Jl. Panglima Sudirman Gg. Manunggal No. 10 Klojen, Malang <br/>
           <i class='fa fa-phone'></i><span class='angka'> (0341)-322288 </span> 
           <br/>
-          <i class='fa fa-envelope'></i> sandrobrayen@gmail.com <br/> 
+          <i class='fa fa-envelope'></i><br/> 
         </div>
 
   <div class="row">
